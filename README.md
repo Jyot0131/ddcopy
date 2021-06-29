@@ -4,12 +4,10 @@ A better command to copy files and folders than cp. Linux provides a feature for
 
 
 # Installation
-'''
 bash
 git clone https://github.com/Jyot0131/ddcopy
 cd ddcopy
 chmod +x ./ddcopy.sh
-'''
 Then alias can be set by adding following line in file .bashrc at last 
 alias ddcopy="bash <path to ddcopy directory>/ddcopy/ddcopy.sh"
   
