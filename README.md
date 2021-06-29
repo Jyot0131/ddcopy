@@ -6,7 +6,7 @@ A better command to copy files and folders than cp. Linux provides a feature for
 # Installation
 bash
 
-git clone https://github.com/Jyot0131/ddcopy
+git clone https://github.com/Jyot0131/ddcopy.git
 
 cd ddcopy
 
